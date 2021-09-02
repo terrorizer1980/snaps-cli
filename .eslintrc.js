@@ -48,20 +48,6 @@ module.exports = {
     },
 
     {
-      files: ['examples/**/*.js'],
-      env: {
-        browser: true,
-      },
-      globals: {
-        wallet: true,
-      },
-      rules: {
-        'no-alert': 'off',
-        'import/no-unresolved': 'off',
-      },
-    },
-
-    {
       files: ['**/*.test.ts'],
       extends: ['@metamask/eslint-config-jest'],
       rules: {
