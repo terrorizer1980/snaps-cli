@@ -2,21 +2,6 @@
 # yarn lockfile v1
 
 
-"@agoric/babel-standalone@^7.9.5":
-  version "7.9.5"
-  resolved "https://registry.yarnpkg.com/@agoric/babel-standalone/-/babel-standalone-7.9.5.tgz#1ca0c17844924199d31e49d6b67e8b2a629b8599"
-  integrity sha512-1Aa23oPuRi4kywUyZODo8zey9Gq2NpD2xUnNvgJLoT8orMQRlVOtvbG3JeHq5sjJERlF/q6csg4/P8t8/5IABA==
-
-"@agoric/make-hardener@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@agoric/make-hardener/-/make-hardener-0.1.2.tgz#b9a72d98ae23a4c6918cd7dc4a9a72deebafde45"
-  integrity sha512-l5O7TCVDcl6NcWW5Rp/lAQaFLmje97wHrKPJbYV08M4TNDgSiMlesYtar40OnAR2pnzgsyilSQc+hU5mEvCJWg==
-
-"@agoric/transform-module@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@agoric/transform-module/-/transform-module-0.4.1.tgz#9fb152364faf372e1bda535cb4ef89717724f57c"
-  integrity sha512-4TJJHXeXAWu1FCA7yXCAZmhBNoGTB/BEAe2pv+J2X8W/mJTr9b395OkDCSRMpzvmSshLfBx6wT0D7dqWIWEC1w==
-
 "@babel/code-frame@7.12.11", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.12.11":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.11.tgz#f4ad435aa263db935b8f10f2c552d23fb716a63f"
@@ -6230,14 +6215,10 @@ serve-handler@^6.1.1:
     path-to-regexp "2.2.1"
     range-parser "1.2.0"
 
-ses@^0.11.0:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/ses/-/ses-0.11.1.tgz#9ba6103c25721cd000dc685f50d03487bdd3700f"
-  integrity sha512-ulorTzYygfVpvlKiAf/ZlnGFhJ7wngGHdJgi6hBrYwoV1tPsQNvBse9gfXMc7b0W8t98N9qagIYYveBkN+SiVA==
-  dependencies:
-    "@agoric/babel-standalone" "^7.9.5"
-    "@agoric/make-hardener" "^0.1.2"
-    "@agoric/transform-module" "^0.4.1"
+ses@^0.15.3:
+  version "0.15.4"
+  resolved "https://registry.yarnpkg.com/ses/-/ses-0.15.4.tgz#4f236c285e4f056f55089d7ee3ef437e53ca976e"
+  integrity sha512-WFCH2gvGyhO7u9PY2OLcqZLMELmJeWqNRvJTTb6/nbZRqlTiEvsj3iez7zKCSxqpX1wVE8RJW6+FvygEI9t/bQ==
 
 set-blocking@^2.0.0, set-blocking@~2.0.0:
   version "2.0.0"
