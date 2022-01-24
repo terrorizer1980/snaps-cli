@@ -79,7 +79,7 @@
     "strip-comments": "^2.0.1",
     "terser": "^4.3.1",
     "yargs": "^16.2.0",
-    "yargs-parser": "^20.2.2"
+    "yargs-parser": "^20.2.9"
   },
   "engines": {
     "node": ">=14.15.1"
