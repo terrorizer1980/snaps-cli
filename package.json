@@ -71,7 +71,7 @@
     "browserify": "^17.0.0",
     "chokidar": "^3.0.2",
     "fast-deep-equal": "^2.0.1",
-    "init-package-json": "^1.10.3",
+    "init-package-json": "^2.0.5",
     "is-url": "^1.2.4",
     "rfdc": "^1.1.4",
     "serve-handler": "^6.1.1",
