@@ -74,7 +74,7 @@
     "init-package-json": "^1.10.3",
     "is-url": "^1.2.4",
     "rfdc": "^1.1.4",
-    "serve-handler": "^6.1.1",
+    "serve-handler": "^6.1.6",
     "ses": "^0.11.0",
     "strip-comments": "^2.0.1",
     "terser": "^4.3.1",
